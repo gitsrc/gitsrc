@@ -1,4 +1,4 @@
 <p align="center">
-<img  alt="image" src="https://github.com/IceFireLabs/.github/assets/34047788/69725346-9dc8-4873-a15a-6e042587801e">
+<img  alt="image" src="https://github.com/gitsrc/gitsrc/assets/34047788/c7b1df17-836c-4291-8fa5-163b6b941cd3">
     <b>Welcome to IceFireLabs, advancing Web3.0 infrastructure.</b>
 </p>
